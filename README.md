@@ -1,5 +1,7 @@
 # DLP-Lab1
 ## Back-propagation
+(The report please refer to Lab1_report.pdf) 
+
 #### Lab Description
 * Implement a simple neural network with two hidden layers
 * You can only use Numpy and other python standard library.
