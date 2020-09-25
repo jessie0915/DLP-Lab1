@@ -5,7 +5,7 @@
 * You can only use Numpy and other python standard library.
 * Plot your comparison figure showing the predictions and ground truth
 
-1. Architecture
+1. Architecture                                              
 ![Architecture](/picture/Architecture.png "Architecture")
 1. Forward                                                  
 ![Forward](/picture/Forward.png "Forward")
