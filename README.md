@@ -1,6 +1,6 @@
 # DLP-Lab1
 ## Back-propagation
-`The report please refer to Lab1_report.pdf`
+`Please refer to the report "Lab1_report.pdf"`
 
 `https://github.com/jessie0915/DLP-Lab1`
 
